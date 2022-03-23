@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khadziiq
-- 👀 I’m interested in fullstack dev
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in javasript fullstack dev
+- �
 
 
 <!---
