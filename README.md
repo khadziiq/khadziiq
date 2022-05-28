@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @khadziiq
-- 👀 I’m interested in javasript fullstack dev
 - �
 
 
